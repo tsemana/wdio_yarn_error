@@ -1,0 +1,11 @@
+{
+  "name": "wdio_yarn",
+  "version": "1.0.0",
+  "description": "Base repo to represent https://github.com/webdriverio/webdriverio/issues/2319 error",
+  "main": "index.js",
+  "author": "Tony Semana",
+  "license": "MIT",
+  "devDependencies": {
+    "webdriverio": "^4.8.0"
+  }
+}
